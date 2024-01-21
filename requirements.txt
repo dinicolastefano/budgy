@@ -6,3 +6,4 @@ streamlit
 streamlit-authenticator
 streamlit-aggrid
 streamlit-elements
+streamlit-option-menu
