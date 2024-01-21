@@ -5,3 +5,4 @@ pydeck
 streamlit
 streamlit-authenticator
 streamlit-aggrid
+streamlit-elements
